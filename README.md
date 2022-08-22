@@ -1,0 +1,1 @@
+To run Machine learning code you need to creat new evironment. 1- Clone the repository. $git clone http://dwrrhapp0179.ad.water.ca.gov/gitea/peymanhn/Ion_Study_TTDataset.git 2- Use environment.yml file to create new environment. conda env creat -f environment.yml 3- Activate the new environment. conda activate ion_ml
